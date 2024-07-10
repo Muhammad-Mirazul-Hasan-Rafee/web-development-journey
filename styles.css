@@ -6,3 +6,58 @@ h3{
 .reason-rep{
     text-align: center;
 }
+
+.change-world{
+    display: flex;
+    justify-content:space-around;
+    margin-top: 4px;
+    padding: 8px;
+    color: #0D1321;
+    margin: 5px 3px;
+
+}
+
+.layer1-img{
+    width: 259px;
+    height: 217;
+}
+
+.web-system{
+ display: flex;
+ justify-content:space-around;
+ color: #0D1321;
+ padding: 8px;
+ margin: 5px 3px;
+
+}
+.group3-img{
+
+    width: 259px;
+    height: 217;
+
+}
+
+.change-world-again{
+
+    display: flex;
+    justify-content:space-around;
+    margin-top: 4px;
+    padding: 8px;
+    color: #0D1321;
+    margin: 5px 3px;
+
+
+}
+
+.layer3-img{
+    width: 259px;
+    height: 217;
+
+}
+.inspiration{
+    text-align: center;
+}
+
+.inspiration-heading{
+    font-weight: 700;
+}
