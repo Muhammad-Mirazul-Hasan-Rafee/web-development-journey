@@ -1,8 +1,32 @@
-h3{
-    text-align: center;
-    color: #0D1321;
+
+
+.azeret-mono-font {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
 }
 
+.first-ban{
+
+    text-align: center;
+    padding: 2px;
+    background-image: url('./assets/Hero-bg.png');
+    background-position: bottom;
+}
+.why-dev{
+    text-align: center;
+
+}
+
+.contact-with-btn{
+    color: white;
+    background-color: #0D1321;
+    text-align: center;
+    font-size: 600;
+    padding: 18px;
+    border-radius: 8px;
+}
 .reason-rep{
     text-align: center;
 }
@@ -113,3 +137,79 @@ h3{
     font-weight: 800;
 }
 
+
+.handshake{
+    text-align: center;
+    background-image: url("./assets/handshake.jpg");
+    
+}
+
+
+.feedback{
+
+    display: flex;
+    margin-left: 40%;
+    gap: 20px ;
+}
+
+
+.learn-btn{
+
+    color: white;
+    background-color: #0D1321;
+    text-align: center;
+    font-size: 600;
+    padding: 10px 12px ;
+    border-radius: 8px;
+
+}
+
+.learn-more-btn{
+
+
+    color: white;
+    background-color: #0D1321;
+    text-align: center;
+    font-size: 600;
+    padding: 10px 12px ;
+    border-radius: 8px;
+
+
+}
+
+.learn-more-btn-2{
+
+    color: white;
+    background-color: #0D1321;
+    text-align: center;
+    font-size: 600;
+    padding: 10px 12px ;
+    border-radius: 8px;
+
+
+}
+
+.last-btn{
+    margin-bottom  : 15 px;
+}
+
+.whatsapp{
+    height: 40px;
+    width: 40px;
+
+}
+
+.footer-last{
+    display: flex;
+    text-decoration: none;
+    gap: 40px;
+    
+}
+
+ .sup-div{
+    display: flex;
+    margin-right: 30px;
+    justify-content: space-evenly;
+ }
+
+ 
